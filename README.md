@@ -1,2 +1,2 @@
 # PCA and Clustering Workbook
-Demonstration of PCA, KMeans, AgglomerativeClustering and DBSCAN
+Demonstration of simple PCA, KMeans, AgglomerativeClustering and DBSCAN techniques.
