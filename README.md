@@ -1,2 +1,2 @@
-# PCA_Workbook
-Demonstration of PCA
+# PCA and Clustering Workbook
+Demonstration of PCA, KMeans, AgglomerativeClustering and DBSCAN
